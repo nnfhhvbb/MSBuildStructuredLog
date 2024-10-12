@@ -115,3 +115,4 @@ Open an issue if you're running into something weird and I can take a look into 
  * [https://msbuildlog.com](https://msbuildlog.com)
  * [https://github.com/dotnet/msbuild/blob/main/documentation/wiki/MSBuild-Resources.md](https://github.com/dotnet/msbuild/blob/main/documentation/wiki/MSBuild-Resources.md)
  * [https://github.com/dotnet/msbuild/blob/main/documentation/wiki/MSBuild-Tips-&-Tricks.md](https://github.com/dotnet/msbuild/blob/main/documentation/wiki/MSBuild-Tips-&-Tricks.md)
+ 
